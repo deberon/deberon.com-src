@@ -1,0 +1,30 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "Derek Anderson"
+languageCode = "en-us"
+theme = "hemingway"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+copyright = "&copy; <a href=\"https://github.com/deberon\">Derek Anderson</a> 2016"
+disqusShortname = "deberon"
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["python", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/deberon"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/deberon"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
+
