@@ -1,6 +1,7 @@
 +++
 date = "2016-11-01T22:51:19-04:00"
 title = "OpenSecurities: Company Info"
+tags = ["python", "opensecurities", "financial", "sec"]
 
 +++
 
