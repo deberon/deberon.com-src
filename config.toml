@@ -3,12 +3,12 @@ title = "Derek Anderson"
 languageCode = "en-us"
 theme = "hemingway"
 
-[permalinks]
-  post = "/:year/:month/:title/"
-
 copyright = "&copy; <a href=\"https://github.com/deberon\">Derek Anderson</a> 2016"
 disqusShortname = "deberon"
 googleAnalytics = "UA-7938817-4"
+
+[permalinks]
+  post = "/:year/:month/:title/"
 
 [params]
 
