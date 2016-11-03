@@ -21,7 +21,7 @@ url = "https://github.com/deberon"
 fa_icon = "fa-github"
 
 [[params.social]]
-url = "https://twitter.com/deberon"
+url = "https://twitter.com/snarknspark"
 fa_icon = "fa-twitter"
 
 [[params.social]]
