@@ -8,7 +8,7 @@ theme = "hemingway"
 
 copyright = "&copy; <a href=\"https://github.com/deberon\">Derek Anderson</a> 2016"
 disqusShortname = "deberon"
-googleAnalytics = ""
+googleAnalytics = "UA-7938817-4"
 
 [params]
 
