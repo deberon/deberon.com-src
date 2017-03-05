@@ -9,5 +9,5 @@ One more day, one more [OpenSecurities](https://github.com/opensecurities) updat
 
 The data is generously provided by [NASDAQ](http://www.nasdaq.com/screening/companies-by-name.aspx)
 
-# Commits
+## Commits
 [Added option to download stock symbols from NYSE and NASDAQ.](https://github.com/OpenSecurities/opensecurities/commit/7d448c7c9a9110b0c0970d6726abbaf773e1c2cd)

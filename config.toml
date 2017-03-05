@@ -1,16 +1,18 @@
 baseurl = "http://www.deberon.com/"
-title = "Derek Anderson"
 languageCode = "en-us"
-theme = "hemingway"
 
-copyright = "&copy; <a href=\"https://github.com/deberon\">Derek Anderson</a> 2016"
+copyright = "Derek Anderson"
 disqusShortname = "deberon"
-googleAnalytics = "UA-7938817-4"
+theme = "lanyon-hugo"
 
 [permalinks]
   post = "/:year/:month/:title/"
+  fixed = "/:filename/"
 
 [params]
+Title = "Derek Anderson"
+Tagline = "Technology, Finance, and Oxford Commas"
+DateForm = "January 2, 2006"
 
 [params.highlight]
 style = "github"
