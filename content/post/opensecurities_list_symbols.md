@@ -2,6 +2,9 @@
 date = "2016-11-02T21:50:08-04:00"
 title = "OpenSecurities: List Symbols"
 tags = ["python", "opensecurities", "financial", "sec"]
+aliases = [
+    "/posts/2016/11/opensecurities-list-symbols/"
+]
 
 +++
 
